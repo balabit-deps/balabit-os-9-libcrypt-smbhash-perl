@@ -1,0 +1,72 @@
+libcrypt-smbhash-perl (0.12-4.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Fri, 01 Jan 2021 16:42:55 +0100
+
+libcrypt-smbhash-perl (0.12-4) unstable; urgency=low
+
+  * lifted standards version, debhelper compat level
+  * updated long description to include module name
+
+ -- Alexander Zangerl <az@debian.org>  Tue, 24 Sep 2013 12:21:40 +1000
+
+libcrypt-smbhash-perl (0.12-3) unstable; urgency=low
+
+  * lifted standards version
+  * cleared some lintian warnings
+  * fixed makemaker DESTDIR/PREFIX issue with perl 5.10.1
+
+ -- Alexander Zangerl <az@debian.org>  Wed, 16 Sep 2009 10:36:35 +1000
+
+libcrypt-smbhash-perl (0.12-2) unstable; urgency=low
+
+  * lifted standards version
+
+ -- Alexander Zangerl <az@debian.org>  Tue, 10 Apr 2007 18:04:48 +1000
+
+libcrypt-smbhash-perl (0.12-1) unstable; urgency=low
+
+  * New upstream release (closes: #329523)
+  * updated watch file, lifted standards version
+
+ -- Alexander Zangerl <az@debian.org>  Sat, 24 Sep 2005 12:54:23 +1000
+
+libcrypt-smbhash-perl (0.02-6) unstable; urgency=low
+
+  * lifted standards version, added homepage to description
+  * applied patch to fix 8-bit passwords (for perl 5.8+) (closes: #211127)
+
+ -- Alexander Zangerl <az@debian.org>  Thu, 11 Dec 2003 13:03:08 +1000
+
+libcrypt-smbhash-perl (0.02-5) unstable; urgency=low
+
+  * standards version lifted, section changed
+
+ -- Alexander Zangerl <az@debian.org>  Tue,  1 Apr 2003 21:18:35 +1000
+
+libcrypt-smbhash-perl (0.02-4) unstable; urgency=low
+
+  * standards version lifted, some debhelper cleanup.
+
+ -- Alexander Zangerl <az@debian.org>  Sun,  9 Mar 2003 11:09:41 +1000
+
+libcrypt-smbhash-perl (0.02-3) unstable; urgency=low
+
+  * /usr/doc transition stuff disabled.
+
+ -- Alexander Zangerl <az@debian.org>  Fri,  3 Jan 2003 15:49:47 +1000
+
+libcrypt-smbhash-perl (0.02-2) unstable; urgency=low
+
+  * include pointer to GPL (Closes: Bug#157561)
+
+ -- Alexander Zangerl <az@debian.org>  Wed, 21 Aug 2002 09:39:41 +1000
+
+libcrypt-smbhash-perl (0.02-1) unstable; urgency=low
+
+  * Initial Release (Closes: Bug#146458)
+
+ -- Alexander Zangerl <az@debian.org>  Fri, 10 May 2002 16:46:39 +1000
+

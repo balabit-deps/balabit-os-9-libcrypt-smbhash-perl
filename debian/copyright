@@ -1,0 +1,29 @@
+This package was debianized by Alexander Zangerl <az@debian.org> on
+Fri, 10 May 2002 16:28:18 +1000.
+
+It was downloaded from http://www.cpan.org/authors/id/B/BJ/BJKUIT/.
+
+Upstream Author: Benjamin Kuit <bj@it.uts.edu.au>
+
+Copyright:
+
+Ported from Samba by Benjamin Kuit <bj@it.uts.edu.au>.
+
+Samba is Copyright(C) Andrew Tridgell 1997-1998
+
+Because this module is a direct port of code within the Samba
+distribution, it follows the same license, that is:
+
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+On Debian systems the GPL and similar licenses can be found in 
+/usr/share/common-licenses/.
+

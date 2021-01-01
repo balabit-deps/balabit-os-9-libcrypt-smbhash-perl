@@ -1,0 +1,19 @@
+Source: libcrypt-smbhash-perl
+Section: perl
+Priority: extra
+Maintainer: Alexander Zangerl <az@debian.org>
+Build-Depends: debhelper (>= 8.0.0)
+Build-Depends-Indep: perl, libdigest-md4-perl
+Standards-Version: 3.9.4
+
+Package: libcrypt-smbhash-perl
+Architecture: all
+Depends: ${perl:Depends}, ${misc:Depends}, libdigest-md4-perl
+Homepage: http://www.cpan.org/authors/id/B/BJ/BJKUIT/
+Description: generate LM/NT hash of a password for samba
+ Crypt::SmbHash provides functions to generate LM/NT hashes
+ used in Samba's 'smbpasswd' file.
+ .
+ The module is a direct port of code from Samba and is written
+ entirely in perl, so it is slower than a C implementation but it
+ is easily ported and installed.
